@@ -1,2 +1,2 @@
 # AutoTyper
-GUI Tool which Types Whats Written in input.txt
+A Simeple Tool which Types the text present in input.txt
